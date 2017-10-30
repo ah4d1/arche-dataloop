@@ -1,7 +1,7 @@
 This is Arche-Dataloop software.
 ********************************
-Arche-Dataloop is a software for data exploration, data manipulation, data analytics, statistical modeling, data mining, and machine learning.
-The project was started in 20th Oktober, 2017.
+Arche-Dataloop is a software for data scientists.
+The project was started in 20th October, 2017.
 
 The components :
 ********************************
@@ -30,13 +30,6 @@ R can be found at https://www.r-project.org/
 Author:
 ********************************
 Ahadi Aprianto
-
-Main Contributors:
-********************************
-Ahadi Aprianto
-Randu Hidayat
-Rizchi Supriyanto
-Nayla Azmi Afifi
 
 Thanks to:
 ********************************
